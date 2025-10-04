@@ -1,8 +1,6 @@
 # MiniWave-A-Pure-Java-JavaFX-Based-Social-Media-Simulation
 MiniWave is a pure Java and JavaFX-based social media web application that simulates core functionalities of modern social platforms. It integrates Java backend logic with a web-based frontend (HTML, CSS, JavaScript) through JavaFX’s WebView and JSObject bridge, creating an interactive and responsive user experience.
 
-Here’s a **professional and complete README.md** and a **short project description** for your *MiniWave* JavaFX project 👇
-
 ---
 
 ## 📝 **Project Description**
